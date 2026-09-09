@@ -33,7 +33,7 @@
         <label for="CPF">CPF :</label>
         <input type="text" name="CPF" id="CPF">
         <br>
-
+        
         <!-- Botão que envia o cadastro. -->
         <input type="submit" value="Cadastrar">
     </form>
